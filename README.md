@@ -1,4 +1,4 @@
 # LTCforecaster
 Forcast price of LTC or any crypto/stock
 
-RUN FILE FROM LITECOINPREDIC.M
+RUN FILE FROM LITECOIN_PREDICT.M
